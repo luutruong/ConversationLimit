@@ -1,0 +1,14 @@
+{
+    "permission.conversation_tcl_maxConvos.txt": {
+        "global_cache": false,
+        "version_id": 2000000,
+        "version_string": "2.0.0",
+        "hash": "1a3e495057ac05a718a2b052eba3b5fa"
+    },
+    "tcl_you_have_reached_maximum_conversations_can_create_allow_x.txt": {
+        "global_cache": false,
+        "version_id": 2000000,
+        "version_string": "2.0.0",
+        "hash": "dcf67f2d00a26e574cf39eff3c3b4eae"
+    }
+}
